@@ -1,0 +1,19 @@
+=== Iteration Scores ===
+Iterations: 1, Score: 9127.8707
+Iterations: 3, Score: 9395.1162
+Iterations: 5, Score: 9406.3133
+Iterations: 10, Score: 9410.6747
+Iterations: 20, Score: 9411.4710
+Iterations: 30, Score: 9411.5666
+Iterations: 40, Score: 9411.5940
+Iterations: 50, Score: 9411.6043
+Iterations: 60, Score: 9411.6085
+Iterations: 70, Score: 9411.6103
+Iterations: 80, Score: 9361.6110
+Iterations: 90, Score: 9361.6112
+Iterations: 100, Score: 9361.6113
+
+Best score: 9411.6103
+Time used: 160.87 seconds
+迭代: [1, 3, 5, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
+分数: [np.float64(9127.870661756127), np.float64(9395.116154201056), np.float64(9406.313280930706), np.float64(9410.674702161275), np.float64(9411.47100591683), np.float64(9411.566586818175), np.float64(9411.593986409467), np.float64(9411.604305290315), np.float64(9411.608535304065), np.float64(9411.610288813185), np.float64(9361.610987183136), np.float64(9361.611232868978), np.float64(9361.611288121598)]

@@ -1,0 +1,8 @@
+# macOS系统文件
+.DS_Store
+
+# 忽略所有 __pycache__ 文件夹
+**/__pycache__/
+
+# （可选）忽略所有编译后的 .pyc/.pyo 文件
+*.py[cod]
