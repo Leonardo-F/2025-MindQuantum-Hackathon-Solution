@@ -13,8 +13,7 @@
 
 ## 联系方式
 
-如有任何问题，欢迎通过以下邮箱联系项目团队：
-`f.g.m.leonardo@gmail.com`
+如有任何问题，欢迎通过以下邮箱联系项目团队：[f.g.m.leonardo@gmail.com](mailto:f.g.m.leonardo@gmail.com)
 
 
 ## 环境准备
