@@ -2,6 +2,10 @@
 
 本项目展示了高荣浩团队在量子误差缓解赛道的解决方案。项目针对量子计算中的测量误差问题，提出了基于单比特校准矩阵与局部 IBU (Iterative Bayesian Unfolding) 的测量误差校准方案。
 
+- 赛事网址：https://developer.huaweicloud.com/competition/information/1300000041/html10
+
+- 赛事代码仓：https://gitee.com/mindspore/mindquantum/pulls/2769
+
 ## 项目内容
 
 - **赛题介绍**：[量子测量误差缓解](docs/赛题说明.md)
